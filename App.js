@@ -1,10 +1,10 @@
 import React from 'react'
-import BlinkApp from './components/Blink'
+import LotsOfStyles from './components/LotsOfStyles'
 
 export default class App extends React.Component {
   render () {
     return (
-      <BlinkApp/>
+      <LotsOfStyles/>
     )
   }
 }
