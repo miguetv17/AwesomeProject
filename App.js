@@ -1,10 +1,10 @@
 import React from 'react'
-import LotsOfStyles from './components/LotsOfStyles'
+import FixedDimensionsBasics from './components/FixedDimensionsBasics'
 
 export default class App extends React.Component {
   render () {
     return (
-      <LotsOfStyles/>
+      <FixedDimensionsBasics/>
     )
   }
 }
