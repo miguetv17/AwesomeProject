@@ -1,10 +1,10 @@
 import React from 'react'
-import Bananas from './Bananas'
+import LotsOfGreetings from './components/Greeting'
 
 export default class App extends React.Component {
   render () {
     return (
-      <Bananas/>
+      <LotsOfGreetings/>
     )
   }
 }
