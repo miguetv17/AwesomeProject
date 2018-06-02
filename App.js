@@ -1,10 +1,10 @@
 import React from 'react'
-import FlexDirectionBasics from './components/FlexDirectionBasics'
+import JustifyContentBasics from './components/JustifyContentBasics'
 
 export default class App extends React.Component {
   render () {
     return (
-      <FlexDirectionBasics/>
+      <JustifyContentBasics/>
     )
   }
 }
