@@ -1,10 +1,10 @@
 import React from 'react'
-import FlexDimensionsBasics from './components/FlexDimensionsBasics'
+import FlexDirectionBasics from './components/FlexDirectionBasics'
 
 export default class App extends React.Component {
   render () {
     return (
-      <FlexDimensionsBasics/>
+      <FlexDirectionBasics/>
     )
   }
 }
