@@ -1,10 +1,10 @@
 import React from 'react'
-import ButtonBasics from './components/ButtonBasics'
+import Touchables from './components/Touchables'
 
 export default class App extends React.Component {
   render () {
     return (
-      <ButtonBasics/>
+      <Touchables/>
     )
   }
 }
