@@ -1,10 +1,10 @@
 import React from 'react'
-import JustifyContentBasics from './components/JustifyContentBasics'
+import AlignItemsBasics from './components/AlignItemsBasics'
 
 export default class App extends React.Component {
   render () {
     return (
-      <JustifyContentBasics/>
+      <AlignItemsBasics/>
     )
   }
 }
