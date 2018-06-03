@@ -1,10 +1,10 @@
 import React from 'react'
-import AlignItemsBasics from './components/AlignItemsBasics'
+import PizzaTranslator from './components/PizzaTranslator'
 
 export default class App extends React.Component {
   render () {
     return (
-      <AlignItemsBasics/>
+      <PizzaTranslator/>
     )
   }
 }
