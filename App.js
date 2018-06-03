@@ -1,10 +1,10 @@
 import React from 'react'
-import PizzaTranslator from './components/PizzaTranslator'
+import ButtonBasics from './components/ButtonBasics'
 
 export default class App extends React.Component {
   render () {
     return (
-      <PizzaTranslator/>
+      <ButtonBasics/>
     )
   }
 }
